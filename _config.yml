@@ -9,7 +9,7 @@ name: Alberto
 description: Web Developer and Engineer.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_7074311.htm#query=avatar&position=2&from_view=keyword
+avatar: https://banner2.cleanpng.com/20180519/lip/kisspng-computer-icons-avatar-devil-5b000dc16562b8.0367219315267301774153.jpg
 
 #
 # Flags below are optional
@@ -53,7 +53,10 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
+markdown: kramdown
+highlighter: rouge
 permalink: /:title/
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
